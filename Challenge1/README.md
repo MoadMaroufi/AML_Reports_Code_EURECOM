@@ -30,6 +30,7 @@ Participants need to create a classifier that predicts whether an image contains
 
 Participants are encouraged to experiment with original approaches, including using advanced techniques like "Visual Question Answering" models to synthetically label data.
 
+### Grade: 95/100
 <!-- # Professor  [P.MICHIARDI's](https://www.eurecom.fr/en/people/michiardi-pietro)  Feedback on our report:
 
 ![image](../Feedback/Feedback_Chall1.png) -->
