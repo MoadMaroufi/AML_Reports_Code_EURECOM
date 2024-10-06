@@ -24,7 +24,7 @@ Classify tweets into positive, neutral, or negative sentiment.
 #### Important Note
 Focus on methodology over performance. The test set labels are not provided, simulating a real-world scenario. Split the training set for validation to check model performance.
 
-
+### Grade: 100/100
 <!-- # Professor  [P.MICHIARDI's](https://www.eurecom.fr/en/people/michiardi-pietro)  Feedback on our report:
 
 ![image](../Feedback/Feedback_Chall3.png) -->
