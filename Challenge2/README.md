@@ -32,9 +32,9 @@ Develop a model to identify if an unknown sound from a given machine ID is norma
 #### Important Note
 Focus on methodology over performance. Invent original approaches, such as using pre-trained models for synthetic labeling.
 
-# Professor  [P.MICHIARDI's](https://www.eurecom.fr/en/people/michiardi-pietro)  Feedback on our report:
+<!-- # Professor  [P.MICHIARDI's](https://www.eurecom.fr/en/people/michiardi-pietro)  Feedback on our report:
 
-![image](../Feedback/Feedback_Chall2.png)
+![image](../Feedback/Feedback_Chall2.png) -->
 
 
 
