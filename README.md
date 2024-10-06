@@ -1,5 +1,5 @@
 # AML_Reports_Code_EURECOM
-I recently completed the [Advanced Machine Learning](https://www.eurecom.edu/en/course/aml-2024spring) (AML) course EURECOM given by Professor  [P.MICHIARDI's](https://www.eurecom.fr/en/people/michiardi-pietro), which focuses on developing robust methodologies for data science problems, particularly those involving machine learning. You can find my detailed report on this GitHub repository.
+I recently completed the [Algorithmic Machine Learning](https://www.eurecom.edu/en/course/aml-2025spring) (AML) course EURECOM given by Professor  [P.MICHIARDI's](https://www.eurecom.fr/en/people/michiardi-pietro), which focuses on developing robust methodologies for data science problems, particularly those involving machine learning. You can find my detailed report on this GitHub repository.
 
 ## Course Overview
 The AML course is designed to ensure that students:
