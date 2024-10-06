@@ -1,0 +1,31 @@
+dev_directory : /teamspace/studios/this_studio/SoundDataset/dev_data/dev_data
+eval_directory : /teamspace/studios/this_studio/SoundDataset/eval_data/eval_data
+model_directory: /teamspace/studios/this_studio/Logs_AML/LogsmodelVAE
+result_directory: /teamspace/studios/this_studio/Logs_AML/resultVAE
+result_file: result.csv
+target: ['slider']  #  set this when you want to test for specific target only.
+
+max_fpr : 0.1
+
+feature:
+  n_mels: 128
+  frames : 5
+  n_fft: 1024
+  hop_length: 512
+  power: 2.0
+
+fit:
+  lr: 0.001
+  b1: 0.9
+  b2: 0.999
+  weight_decay: 0.0
+  epochs : 50
+  batch_size : 1000
+  shuffle : True
+  validation_split : 0.01
+  verbose : 1
+
+VAE:
+  x_dim: 640
+  h_dim: 400
+  z_dim: 20
